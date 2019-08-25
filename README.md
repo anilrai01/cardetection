@@ -1,2 +1,2 @@
-- [Android App Link](https://github.com/jagritiS/SmartTraffic)
+- [Android App Link](https://github.com/jagritiS/SmartTrafficV-0.1)
 - [API ](https://github.com/anilrai01/djangoRestAPI)
